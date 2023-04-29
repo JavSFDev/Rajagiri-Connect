@@ -54,8 +54,4 @@ git clone https://github.com/amaan871/rajagiri-connect.git
 We have the following branches
 
  * **master**<br>This contains shipped code. After significant features/bugfixes are accumulated on development, we make a version update and make a release.
- 	
 
-## Maintainers and Developers
-This repository is owned and maintained by 
- * [Muhammad Amaan](https://github.com/amaan871)
