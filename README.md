@@ -34,10 +34,6 @@ implementing the project as follows :
 
 ### Step 3. Git Clone the above repository
 - After installing VS Code, clone the above repository by using the following command
-
-```bash
-git clone https://github.com/amaan871/rajagiri-connect.git
-```
 - Import the saved repository into your VS Code.
 
 ### Step 4. Update the `pubspec.yaml` file
